@@ -1,0 +1,12 @@
+--extra-index-url https://download.pytorch.org/whl/cu116
+ipython
+numpy
+scipy
+torch
+matplotlib
+toml
+tqdm
+pynput
+tensorboard
+note_seq==0.0.5
+protobuf==4.21.2
